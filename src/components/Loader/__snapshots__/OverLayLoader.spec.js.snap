@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Overlay loader testing renders with right snapshot 1`] = `
+<div
+  className="overlay-loader"
+>
+  <Loader />
+</div>
+`;
